@@ -2,5 +2,6 @@
 <style>
     h1{
         color:#258974;
+        text-align: justify;
     }
 </style>
